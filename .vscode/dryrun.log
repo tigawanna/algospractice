@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/dennis/test/algos'
+make: Leaving directory '/home/dennis/test/algos'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
